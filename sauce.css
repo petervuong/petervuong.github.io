@@ -1,0 +1,35 @@
+h1 {
+	background-color: black;
+	color: white;
+	text-align:center;
+	font-size: 108px;
+}
+
+h3 {
+	color: red;
+	text-align: center;
+	font-size: 48px;
+}
+
+.saucetag {
+	text-align: center;
+	font-family: impact;
+	font-size: 72px;
+	color: rgb(204, 179, 255);
+}
+
+img.bgpic{
+	width: 200px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+	
+}
+
+.bgdesc{
+	font-family: verdana;
+	font-size: 24px;
+	color: blue;
+}
+
+
