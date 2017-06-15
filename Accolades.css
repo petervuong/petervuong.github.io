@@ -20,8 +20,7 @@ h2 {
 }
 
 img.frankie {
-	position:absolute;
-	right: 0px;
+	float: right;
 	width: 300px;
 	height: 300px;
 	padding: 4px 4px 30px 4px;
@@ -32,8 +31,7 @@ img.frankie {
 
 
 img.chess {
-	position:absolute;
-	right: 550px;
+	float: right;
 	width: 300px;
 	height: 300px;
 	padding: 4px;
@@ -43,8 +41,7 @@ img.chess {
 
 
 img.vball {
-	position:absolute;
-	right: 250px;
+	float: right;
 	width: 300px;
 	height: 300px;
 	padding: 4px;
