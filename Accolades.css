@@ -1,0 +1,67 @@
+h1 {
+	
+	
+	font-family: Baskerville Old Face; 
+	font-size: 100px; 
+	text-align: center;
+	margin-top: 30px;
+	border-bottom: 5px solid black;
+	
+}
+
+h2 {
+	
+	
+	font-family: Palatino;
+	font-size:50px;
+	text-decoration: underline;
+	margin-bottom: 10px;
+	color: rgb(31, 70, 132);
+}
+
+img.frankie {
+	position:absolute;
+	right: 0px;
+	width: 300px;
+	height: 300px;
+	padding: 4px 4px 30px 4px;
+	border: 0px solid;
+	border-radius: 50%;
+}
+
+
+
+img.chess {
+	position:absolute;
+	right: 550px;
+	width: 300px;
+	height: 300px;
+	padding: 4px;
+	border: 0px solid;
+	border-radius: 25%;
+}
+
+
+img.vball {
+	position:absolute;
+	right: 250px;
+	width: 300px;
+	height: 300px;
+	padding: 4px;
+	border: 0px solid;
+	border-radius: 50%;
+}
+
+
+h3  {
+	
+	float: right;
+	color: black;
+	font-size: 20px; 
+	text-align: center;
+	border-top: 5px solid black; 
+	margin-top: 200px; 
+	
+}
+
+
