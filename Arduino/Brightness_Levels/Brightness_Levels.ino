@@ -1,3 +1,5 @@
+// Learning how to manipulate codes. Still have one problem - after lowering the brightness, an extra click is required to go from off -> first brightness level. 
+
 int button = 8;
 int LED = 5; 
 int LEDLevel = 0; 
