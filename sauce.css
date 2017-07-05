@@ -49,7 +49,8 @@ img.rotate {
 li.vertical {
 	
 	margin-bottom: 50px; 
-	
+	max-width: 75%;
+	text-indent: -115px;
 }
 
 .inline {
@@ -86,18 +87,5 @@ li a.horizontal {
 	padding: 20px 0px 20px 300px;
 	text-decoration: none;
 }
-
-.tab {
-	
-	overflow: hidden; 
-	border: 5px solid black;
-	background-color: white; 
-	
-}
-
-
-
-
-
 
 
